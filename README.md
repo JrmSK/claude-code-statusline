@@ -2,7 +2,7 @@
 
 A rich, two-line status bar for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) that shows everything you need at a glance.
 
-![screenshot-placeholder](https://via.placeholder.com/800x80?text=Add+screenshot+here)
+![Claude Code Statusline](screenshot.png)
 
 ## What it shows
 
